@@ -1,7 +1,9 @@
 public class Exercise2 {
 
     public static void main(String[] args) {
-        // int - integer is a number without a decimal part
+        // we can assign values to variables, that have names
+        // here we have a variable named "a" with the value 5 of type int
+        // int, short for integer is a number without a decimal part
         int a = 5;
 
         // create a second integer variable called b and assign it the value 8
